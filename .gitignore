@@ -1,4 +1,4 @@
 venv
 __pycache__
-data/DarkTrack.csv
-data/QCDTrack.csv
+./data/DarkTrack.csv
+./data/QCDTrack.csv
