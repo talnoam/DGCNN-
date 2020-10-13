@@ -115,7 +115,7 @@ else:
 
 # Training parameters
 batch_size = 1024 if 'lite' in model_type else 384
-epochs = 5
+epochs = 20
 
 def lr_schedule(epoch):
   lr = 3e-4
